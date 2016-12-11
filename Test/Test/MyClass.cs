@@ -6,6 +6,7 @@ namespace Test
 	{
 		public MyClass ()
 		{
+            int x;
 		}
 	}
 }
